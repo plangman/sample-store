@@ -8,7 +8,7 @@ PENS
 
 1. Blue Pen - $1.00
 2. Red Pen - $0.75
-3. Green Pen - $40.00
+3. Green Pen - $41.00
 4. Yellow Pen - $0.25
 
 PENCIL
